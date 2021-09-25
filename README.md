@@ -1,12 +1,10 @@
 ## 　　Lesson33.スクリプトフィルターを2段階で使う
+
+[サンプル動画](https://user-images.githubusercontent.com/40127279/134765044-abc39647-2984-4acf-b38d-cf58983c32cc.mp4)
+
 #### 開発メモ
 ワークフロー
 <br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/134764902-0f1c823e-43cb-4fb9-a229-f2c0433d849c.png">
-
-
-https://user-images.githubusercontent.com/40127279/134765044-abc39647-2984-4acf-b38d-cf58983c32cc.mp4
-
-
 
 ### 1.Gaku-Shaを知ろう
 　雑学サイトGaku-Sha
