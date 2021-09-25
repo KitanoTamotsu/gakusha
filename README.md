@@ -53,7 +53,7 @@
 ### 機能:
 　Gaku-Sha.comサイトの雑学をランダムに表示する
 ### インストール:
-　1.[alfredworkflow](https://github.com/KitanoTamotsu/gakusha/Gaku-Sha.com.alfredworkflow.zip)をダウンロード 
+　1.[alfredworkflow](https://github.com/KitanoTamotsu/gakusha/releases/download/1.0/Gaku-Sha.com.alfredworkflow.zip)をダウンロード 
 <br>　2.ファイルをダブルクリックしてワークフローに登録
 
 ### 使い方:
