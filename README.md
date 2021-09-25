@@ -1,6 +1,6 @@
 ## 　　Lesson33.スクリプトフィルターを2段階で使う
 
-[サンプル動画](https://user-images.githubusercontent.com/40127279/134765044-abc39647-2984-4acf-b38d-cf58983c32cc.mp4)
+[サンプル動画] (https://user-images.githubusercontent.com/40127279/134765044-abc39647-2984-4acf-b38d-cf58983c32cc.mp4)
 
 #### 開発メモ
 ワークフロー
