@@ -1,8 +1,13 @@
 ## 　　Lesson33.スクリプトフィルターを2段階で使う
-
-<img width="1248" alt="スクリーンショット 2021-09-25 14 11 00" src="https://user-images.githubusercontent.com/40127279/134764902-0f1c823e-43cb-4fb9-a229-f2c0433d849c.png">
-
 #### 開発メモ
+ワークフロー
+<br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/134764902-0f1c823e-43cb-4fb9-a229-f2c0433d849c.png">
+
+
+https://user-images.githubusercontent.com/40127279/134765044-abc39647-2984-4acf-b38d-cf58983c32cc.mp4
+
+
+
 ### 1.Gaku-Shaを知ろう
 　雑学サイトGaku-Sha
 <br>　トップページには最近の記事が表示されています。かなりの頻度で更新していますね
@@ -29,6 +34,7 @@
 <br>　あと、JSONの出力をスクロールさせたくなかったので9行としています
 <br>　そのためshufとheadでランダムに選択しています
 <br>　
+<br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/134764943-ffc2a099-7a58-4ec6-ae91-716c05789f1d.png">
 <br>　
 ### 3.2段目のScriptFilter
 　2段目のScriptFilterはカテゴリ内のページをランダムで選択。
@@ -42,6 +48,8 @@
 <br>　
 <br>　ページのURLが決まったらcURLでソースを取得して、記事のタイトルとURLを
 <br>　配列に格納。あとは9件を選択してJSONにするだけ
+<br>　
+<br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/134764969-f9d6bec7-ae92-4e18-b50e-cc670284836a.png">
 <br>　
 #### 背景
 　しばらくワークフローを作っていなかったのですが、鈍らないようにと作成してみました　
