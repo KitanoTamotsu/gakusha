@@ -1,4 +1,7 @@
 ## 　　Lesson33.スクリプトフィルターを2段階で使う
+
+<img width="1248" alt="スクリーンショット 2021-09-25 14 11 00" src="https://user-images.githubusercontent.com/40127279/134764902-0f1c823e-43cb-4fb9-a229-f2c0433d849c.png">
+
 #### 開発メモ
 ### 1.Gaku-Shaを知ろう
 　雑学サイトGaku-Sha
