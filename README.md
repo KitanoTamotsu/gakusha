@@ -1,0 +1,2 @@
+# gakusha
+Alfred workflow
