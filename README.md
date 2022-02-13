@@ -1,5 +1,3 @@
-## 　　Lesson33.スクリプトフィルターを2段階で使う
-
 <br>[サンプル動画](https://user-images.githubusercontent.com/40127279/134765044-abc39647-2984-4acf-b38d-cf58983c32cc.mp4)
 <br>1.alfredに"gakusha"と入力すると、雑学のカテゴリが9つ表示されます
 <br>2.入力した最後の文字"a"を削除して、再度入力すると、先ほどとは別のカテゴリが
